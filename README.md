@@ -1,14 +1,15 @@
 
 
 # ShortenerUrl [![Awesome]
-> A curated list of awesome READMEs
+> shortener url -> short your urls for addresses and images
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+made with create-react-app | nodejs | express | mongodb | bootstrap
 
-## Examples
+## installation instructions
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- got to server root folder -> 
+1. npm install the packages 
+-
 
 ## Articles
 
