@@ -1,0 +1,15 @@
+{
+"/register":"post | register users",
+"/login":"post | login user",
+"/logout":"get | logout user",
+
+"/url-address/:userId":"post | post shortener urlAddress",
+"/url-image/:userId":"post | post shortener urlImage ",
+"/:shortAddress": "get | create the redirect to website and increment clicks",
+
+"/user-shorts/:userId":"get | get all user shorts records",
+"/delete-short/:shortId":"delete | delete short record",
+"/update-short/:shortId":"patch | update short record"
+
+
+}
