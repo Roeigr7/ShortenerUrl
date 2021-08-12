@@ -7,7 +7,7 @@ made with create-react-app | nodejs | express | mongodb | bootstrap
 
 ## installation instructions
 
-- go to #server folder 
+- go to ## server folder 
 1) npm install | to install all the server packages
 2) npm start | to run the server on localhost4000
 - go to *client* folder 
