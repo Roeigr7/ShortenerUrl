@@ -16,7 +16,7 @@ made with create-react-app | nodejs | express | mongodb | bootstrap
 
 -----
 
-## By Roei Grinshpan
+## Made by Roei Grinshpan 2021
 
 
 
